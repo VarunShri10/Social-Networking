@@ -1,0 +1,8 @@
+Varun Shrivastava #varun varun.shrivastava@metagurukul.com 5 Vipul Srivastava Sandeep Panchal Harshvardhan Chittora Naman Agarwal
+Vipul Srivastava #vipul vipul.shrivastava@others.com 10 Varun Shrivastava Sandeep Panchal Kalpit Tandon Naman Agarwal
+Sandeep Panchal #sandeep sandeep.panchal@others.com 20 Varun Shrivastava Kalpit Tandon Vipul Srivastava  
+Kalpit Tandon #kalpit kalpit.tandon@others.com 15 Sandeep Panchal Vipul Srivastava 
+Harshvardhan Chittora #harsh harshvardhan.chittora@others.com 7 Jayesh Vyas
+Naman Agarwal #naman naman.agarwal@others.com 35 Vipul Srivastava 
+Akriti Sondhi #akiti akriti.sondhi@metagurukul.com 6 Meenal Ranka Priyanka Aanand	
+Bhavya Jain #bhavya bhavya.jain@metagurukul.com 4 Monika Kumawat Khusboo Salvi
